@@ -1,0 +1,9 @@
+{
+	"name": "akdf-spotifyproject",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "08d32829-8731-4ec8-a8ab-bdfe48eeeb21",
+		"tenantId": "d0bf0711-5b34-4b6c-a9de-eb3a5a1c4128"
+	}
+}
